@@ -42,8 +42,9 @@ def reduce_to_any_true(source_array)
     if source_array[counter] 
       counter += 1 
     else 
-      return true  
+      return false  
     end 
+    return true 
   end 
 end 
 
