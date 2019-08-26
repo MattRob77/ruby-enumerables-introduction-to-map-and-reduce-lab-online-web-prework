@@ -44,12 +44,7 @@ def reduce_to_any_true(source_array)
     else 
       counter += 1 
     end
-    
-    
-    
-   
-   
-  end
+    end
   return false 
 end 
 
